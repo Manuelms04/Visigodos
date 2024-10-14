@@ -8,8 +8,9 @@ la Galia y controlaran algunos territorios en Hispania.
 
 ## Índice
 
-[1. Época](epoca.md)
-2. Arquitectura
-3. Obras más significativas
+1. [Época](epoca.md)
+2. [Arquitectura](arquitectura.md)
+3. [Obras más significativas](obras.md)
 
 ## Referencia
+[National Geographic España](https://historia.nationalgeographic.com.es/temas/visigodos)
